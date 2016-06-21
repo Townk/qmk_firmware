@@ -21,9 +21,9 @@ from the Kinesis I was using so far.
 
 Here are the layout mapping in images so you can have a glimpse on it:
 
-![Base Layout](townk_osx_base.png)
-![fn Layout](townk_osx_fn.png)
-![Keypad & Mouse Layout](townk_osx_keypad.png)
+![Base Layout](layout/townk_osx_base.png)
+![fn Layout](layout/townk_osx_fn.png)
+![Keypad & Mouse Layout](layout/townk_osx_keypad.png)
 
 Notice that, differently from the default behavior, my layer keys are not transparent
 by default, which means that if you press any non-labeled white key, nothing will be
@@ -49,7 +49,29 @@ keys I don't want I added a timeout of 3 seconds for the one shot actions.
 Ultimately I tested the shift key as a one shot one and really like it, so
 here you have it, all the one shot keys on my layout.
 
-## Glossary
+### Keypad & Mouse Layer
+
+Another interesting point to notice is my choice of position for the number
+keys on the keypad layer. Usualy other layouts, position those keys one key to
+the right from what I choose but I wanted the _bumped key_ to be the number 5,
+just like a normal keypad keyboard.
+
+## Apendix
+
+### Layout images
+
+I used the awesome tool
+[keyboard-layout-editor.com](http://www.keyboard-layout-editor.com) to create
+my layouts. If you want use my layout as a base for yours, feel free to use
+the json files on this repo ([base](layout/townk_osx_base.json),
+[fn](layout/townk_osx_fn.json) and [keypad](layout/townk_osx_keypad.json)), or
+you can check it out my gists directly:
+
+- [Base](http://www.keyboard-layout-editor.com/#/gists/572f7499189520ce8df55b0b37a11fd6)
+- [fn](http://www.keyboard-layout-editor.com/#/gists/69ad2755b5ac7eadb7fc8914a6988491)
+- [Kaypad](http://www.keyboard-layout-editor.com/#/gists/07caac77215aa7dc30f1a99d23252305)
+
+### Key symbols
 
 If you're not familiar with the Mac symbols used on some keys, here is a
 reference to them:
@@ -74,4 +96,3 @@ reference to them:
 |   ↘    | End                 |
 |   ⇞    | Page up             |
 |   ⇟    | Page down           |
-|   ⌧    | Clear               |

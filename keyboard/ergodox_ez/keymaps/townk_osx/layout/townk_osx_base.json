@@ -1,0 +1,846 @@
+[
+  {
+    "name": "Towns OS X (Base Layer)",
+    "author": "Thiago Alves"
+  },
+  [
+    {
+      "x": 3.5,
+      "c": "#ffffff",
+      "p": "DCS R1",
+      "a": 5,
+      "f": 5
+    },
+    "#\n3",
+    {
+      "x": 10.5
+    },
+    "*\n8"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5
+    },
+    "@\n2",
+    {
+      "x": 1
+    },
+    "$\n4",
+    {
+      "x": 8.5
+    },
+    "&\n7",
+    {
+      "x": 1
+    },
+    "(\n9"
+  ],
+  [
+    {
+      "y": -0.995,
+      "x": 7.75,
+      "c": "#cccccc",
+      "a": 7,
+      "f": 8,
+      "w": 4,
+      "d": true
+    },
+    "Base Layer"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 5.5,
+      "c": "#ffffff",
+      "a": 5,
+      "f": 5
+    },
+    "%\n5",
+    {
+      "a": 7
+    },
+    "⎋",
+    {
+      "x": 4.5
+    },
+    "<i class='fa fa-power-off'></i>",
+    {
+      "a": 5
+    },
+    "^\n6"
+  ],
+  [
+    {
+      "y": -0.875,
+      "w": 1.5
+    },
+    "~\n`",
+    "!\n1",
+    {
+      "x": 14.5
+    },
+    ")\n0",
+    {
+      "w": 1.5
+    },
+    "+\n="
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3.5,
+      "p": "DCS R2",
+      "a": 7,
+      "f": 8
+    },
+    "e",
+    {
+      "x": 10.5
+    },
+    "i"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5
+    },
+    "w",
+    {
+      "x": 1
+    },
+    "r",
+    {
+      "x": 8.5
+    },
+    "u",
+    {
+      "x": 1
+    },
+    "o"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5.5
+    },
+    "t",
+    {
+      "c": "#9fb6c9",
+      "p": "DCS R3",
+      "a": 5,
+      "f": 5,
+      "fa": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "h": 1.5
+    },
+    "\nmeh\n\n\n\n\nF16",
+    {
+      "x": 4.5,
+      "h": 1.5
+    },
+    "\nmeh\n\n\n\n\nF17",
+    {
+      "c": "#ffffff",
+      "p": "DCS R2",
+      "a": 7,
+      "f": 8
+    },
+    "y"
+  ],
+  [
+    {
+      "y": -0.875,
+      "f": 5,
+      "w": 1.5
+    },
+    "⇥",
+    {
+      "f": 8
+    },
+    "q",
+    {
+      "x": 14.5
+    },
+    "p",
+    {
+      "a": 5,
+      "f": 5,
+      "w": 1.5
+    },
+    "_\n-"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3.5,
+      "p": "DCS R3",
+      "a": 7,
+      "f": 8
+    },
+    "d",
+    {
+      "x": 10.5
+    },
+    "k"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5
+    },
+    "s",
+    {
+      "x": 1,
+      "n": true
+    },
+    "f",
+    {
+      "x": 8.5,
+      "n": true
+    },
+    "j",
+    {
+      "x": 1
+    },
+    "l"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5.5
+    },
+    "g",
+    {
+      "x": 6.5
+    },
+    "h"
+  ],
+  [
+    {
+      "y": -0.875,
+      "c": "#9fb6c9",
+      "a": 4,
+      "f": 5,
+      "w": 1.5
+    },
+    "|\n\\\n\n\n\n\n\n⌃",
+    {
+      "c": "#ffffff",
+      "a": 7,
+      "f": 8
+    },
+    "a",
+    {
+      "x": 14.5,
+      "a": 5,
+      "f": 5
+    },
+    ":\n;",
+    {
+      "c": "#9fb6c9",
+      "a": 4,
+      "w": 1.5
+    },
+    "\"\n'\n\n\n\n\n\n⌃"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": 6.5,
+      "a": 5,
+      "fa": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "h": 1.5
+    },
+    "\nhyper\n\n\n\n\nF18",
+    {
+      "x": 4.5,
+      "h": 1.5
+    },
+    "\nhyper\n\n\n\n\nF19"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 3.5,
+      "c": "#ffffff",
+      "p": "DCS R4",
+      "a": 7,
+      "f": 8
+    },
+    "c",
+    {
+      "x": 10.5,
+      "a": 5,
+      "f": 5
+    },
+    "<\n,"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5,
+      "a": 7,
+      "f": 8
+    },
+    "x",
+    {
+      "x": 1
+    },
+    "v",
+    {
+      "x": 8.5
+    },
+    "m",
+    {
+      "x": 1,
+      "a": 5,
+      "f": 5
+    },
+    ">\n."
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5.5,
+      "a": 7,
+      "f": 8
+    },
+    "b",
+    {
+      "x": 6.5
+    },
+    "n"
+  ],
+  [
+    {
+      "y": -0.875,
+      "c": "#88c28a",
+      "f": 5,
+      "w": 1.5
+    },
+    "⇧",
+    {
+      "c": "#ffffff",
+      "f": 8
+    },
+    "z",
+    {
+      "x": 14.5,
+      "a": 5,
+      "f": 5
+    },
+    "?\n/",
+    {
+      "c": "#88c28a",
+      "a": 7,
+      "w": 1.5
+    },
+    "⇧"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3.5,
+      "c": "#ffffff"
+    },
+    "⌥",
+    {
+      "x": 10.5
+    },
+    "⌥"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5
+    },
+    "⌃",
+    {
+      "x": 1
+    },
+    "⌘",
+    {
+      "x": 8.5
+    },
+    "⌘",
+    {
+      "x": 1,
+      "c": "#9fb6c9",
+      "a": 4
+    },
+    "{\n[\n\n\n\n\n\n⌃"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 0.5,
+      "c": "#d6abab",
+      "a": 7
+    },
+    "fn",
+    "key pad",
+    {
+      "x": 14.5,
+      "c": "#9fb6c9",
+      "a": 4,
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    "}\n]\n\n\n\n\n\nkey pad",
+    {
+      "c": "#d6abab",
+      "a": 7
+    },
+    "fn"
+  ],
+  [
+    {
+      "y": 0.7549999999999999,
+      "x": 0.75,
+      "c": "#9fb6c9",
+      "p": "DCS R3",
+      "a": 5,
+      "fa": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "h": 1.5
+    },
+    "\nmeh\n\n\n\n\nF16",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 3.5,
+      "h": 1.5,
+      "d": true
+    },
+    "*Press* to send the F16 key. *Tap* and hold to use as the Meh key (Ctrl+Alt+Shift).",
+    {
+      "x": 9,
+      "c": "#f5f2a6",
+      "p": "DCS R1",
+      "a": 7,
+      "f": 5,
+      "fa": [
+        4
+      ]
+    },
+    "macro 1",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 4,
+      "d": true
+    },
+    "Sends the combination Ctrl+A than Esc. This is used to enter on the Normal mode on Tmux."
+  ],
+  [
+    {
+      "y": 0.25,
+      "x": 14.25,
+      "c": "#f5f2a6",
+      "a": 7,
+      "f": 5,
+      "fa": [
+        4
+      ]
+    },
+    "macro 2",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 4,
+      "d": true
+    },
+    "Sends the combination Ctrl+A than P. This is used to paste the clipboard content on Tmux."
+  ],
+  [
+    {
+      "y": -0.4999999999999991,
+      "x": 0.75,
+      "c": "#9fb6c9",
+      "p": "DCS R3",
+      "a": 5,
+      "f": 5,
+      "fa": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "h": 1.5
+    },
+    "\nmeh\n\n\n\n\nF17",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 3.5,
+      "h": 1.5,
+      "d": true
+    },
+    "*Press* to send the F17 key. *Tap* and hold to use as the Meh key (Ctrl+Alt+Shift)."
+  ],
+  [
+    {
+      "y": -0.7499999999999982,
+      "x": 6.25,
+      "c": "#9fb6c9",
+      "a": 4,
+      "f": 5,
+      "w": 1.5
+    },
+    "|\n\\\n\n\n\n\n\n⌃",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 4,
+      "d": true
+    },
+    "*Press* to send the character '\\', *Tap* and hold to use as control key."
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 14.25,
+      "c": "#f5f2a6",
+      "p": "DCS R1",
+      "a": 7,
+      "f": 5,
+      "fa": [
+        4
+      ]
+    },
+    "macro 3",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 4,
+      "d": true
+    },
+    "Cmd+C (Copy)"
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 6.25,
+      "c": "#9fb6c9",
+      "p": "DCS R3",
+      "a": 4,
+      "f": 5,
+      "w": 1.5
+    },
+    "\"\n'\n\n\n\n\n\n⌃",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 4.75,
+      "d": true
+    },
+    "*Press* to send the character 'single quote', *Tap* and hold to use as control key."
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 0.75,
+      "c": "#9fb6c9",
+      "a": 5,
+      "f": 5,
+      "fa": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "h": 1.5
+    },
+    "\nhyper\n\n\n\n\nF18",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 3.5,
+      "h": 1.5,
+      "d": true
+    },
+    "*Press* to send the F18 key. *Tap* and hold to use as the Meh key (Ctrl+Alt+Shift+Cmd)."
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 14.25,
+      "c": "#f5f2a6",
+      "p": "DCS R1",
+      "a": 7,
+      "f": 5,
+      "fa": [
+        4
+      ]
+    },
+    "macro 4",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 4,
+      "d": true
+    },
+    "Cmd+V (Paste)"
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 6.75,
+      "c": "#9fb6c9",
+      "p": "DCS R4",
+      "a": 4,
+      "f": 5
+    },
+    "{\n[\n\n\n\n\n\n⌃",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 5.5,
+      "d": true
+    },
+    "*Press* to send the character 'open square bracket', *Tap and hold* to use as control key."
+  ],
+  [
+    {
+      "y": -0.25,
+      "x": 0.75,
+      "c": "#9fb6c9",
+      "p": "DCS R3",
+      "a": 5,
+      "f": 5,
+      "fa": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "h": 1.5
+    },
+    "\nhyper\n\n\n\n\nF19",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 3.5,
+      "h": 1.5,
+      "d": true
+    },
+    "*Press* to send the F19 key. *Tap* and hold to use as the Meh key (Ctrl+Alt+Shift+Cmd)."
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 14.25,
+      "c": "#d6abab",
+      "p": "DCS R4",
+      "a": 7,
+      "f": 5
+    },
+    "key pad",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 4,
+      "d": true
+    },
+    "Toggle the Keypad layer."
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 6.75,
+      "c": "#9fb6c9",
+      "a": 4,
+      "f": 5,
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ]
+    },
+    "}\n]\n\n\n\n\n\nkey pad",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 5.5,
+      "d": true
+    },
+    "*Press* to send the character 'close square bracket', *Tap and hold* to temporary activate the Keypad layer."
+  ],
+  [
+    {
+      "y": 1,
+      "x": 2.5,
+      "c": "#88c28a",
+      "a": 7,
+      "f": 5,
+      "w": 1.5
+    },
+    "⇧",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 5.75,
+      "d": true
+    },
+    "Still works as you'd expect. So  Shift+0 sends ) and in addition to it if you just tap and release it, the next key pressed in 3 seconds will be pressed as if Shift was hold. Also, you can double tap it to make it sticky.",
+    {
+      "x": 1,
+      "c": "#d6abab",
+      "a": 7,
+      "f": 5
+    },
+    "fn",
+    {
+      "c": "#cccccc",
+      "a": 6,
+      "f": 3,
+      "w": 5.75,
+      "d": true
+    },
+    "When tapped, toggle the `fn` layer for the next key or until the 3 seconds timeout pass (one shot). When hold, change the layout to the `fn` layer until released. You can also double tap it to make the `fn` layer sticky."
+  ],
+  [
+    {
+      "r": 30,
+      "rx": 6.5,
+      "ry": 4.25,
+      "y": -1,
+      "x": 1,
+      "c": "#f5f2a6",
+      "p": "DCS R1",
+      "a": 7,
+      "f": 5,
+      "fa": [
+        4
+      ]
+    },
+    "macro 1",
+    "macro 2"
+  ],
+  [
+    {
+      "c": "#ffffff",
+      "p": "DCS R2",
+      "f": 5,
+      "h": 2
+    },
+    "⌫",
+    {
+      "f": 5,
+      "h": 2
+    },
+    "⌦",
+    {
+      "f": 5
+    },
+    "↖"
+  ],
+  [
+    {
+      "x": 2,
+      "f": 5
+    },
+    "↘"
+  ],
+  [
+    {
+      "r": -30,
+      "rx": 13,
+      "y": -1,
+      "x": -3,
+      "c": "#f5f2a6",
+      "p": "DCS R1",
+      "f": 5
+    },
+    "macro 3",
+    {
+      "f": 5
+    },
+    "macro 4"
+  ],
+  [
+    {
+      "x": -3,
+      "c": "#ffffff",
+      "p": "DCS R2",
+      "f": 5
+    },
+    "⇞",
+    {
+      "f": 5,
+      "h": 2
+    },
+    "⏎",
+    {
+      "f": 5,
+      "h": 2
+    },
+    "␣"
+  ],
+  [
+    {
+      "x": -3,
+      "f": 5
+    },
+    "⇟"
+  ]
+]

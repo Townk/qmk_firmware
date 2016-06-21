@@ -1,0 +1,459 @@
+[
+  {
+    "name": "Townk OS X (fn Layer)",
+    "author": "Thiago Alves"
+  },
+  [
+    {
+      "x": 3.5,
+      "c": "#ffffff",
+      "p": "DCS R1",
+      "a": 7,
+      "f": 5
+    },
+    "F3",
+    {
+      "x": 10.5
+    },
+    "F10"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5
+    },
+    "F2",
+    {
+      "x": 1
+    },
+    "F4",
+    {
+      "x": 8.5
+    },
+    "F9",
+    {
+      "x": 1
+    },
+    "F11"
+  ],
+  [
+    {
+      "y": -0.995,
+      "x": 7.75,
+      "f": 8,
+      "w": 4,
+      "d": true
+    },
+    "fn Layer"
+  ],
+  [
+    {
+      "y": -0.88,
+      "x": 5.5,
+      "f": 5
+    },
+    "F5",
+    "F6",
+    {
+      "x": 4.5
+    },
+    "F7",
+    "F8"
+  ],
+  [
+    {
+      "y": -0.875,
+      "w": 1.5
+    },
+    "",
+    "F1",
+    {
+      "x": 14.5
+    },
+    "F12",
+    {
+      "w": 1.5
+    },
+    "<i class='kb kb-Multimedia-Volume-Up-1'></i>"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3.5,
+      "p": "DCS R2",
+      "f": 8
+    },
+    "<i class='kb kb-Multimedia-Record'></i>",
+    {
+      "x": 10.5
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5
+    },
+    "<i class='kb kb-Multimedia-Rewind'></i>",
+    {
+      "x": 1
+    },
+    "<i class='kb kb-Multimedia-FastForwar'></i>",
+    {
+      "x": 8.5
+    },
+    "",
+    {
+      "x": 1
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5.5
+    },
+    "",
+    {
+      "c": "#9c9c9c",
+      "p": "DCS R3",
+      "f": 5,
+      "h": 1.5
+    },
+    "",
+    {
+      "x": 4.5,
+      "h": 1.5
+    },
+    "",
+    {
+      "c": "#ffffff",
+      "p": "DCS R2",
+      "f": 8
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.875,
+      "f": 5,
+      "w": 1.5
+    },
+    "",
+    {
+      "f": 8
+    },
+    "<i class='kb kb-Multimedia-Stop'></i>",
+    {
+      "x": 14.5
+    },
+    "",
+    {
+      "f": 5,
+      "w": 1.5
+    },
+    "<i class='kb kb-Multimedia-Volume-Down-1'></i>"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3.5,
+      "p": "DCS R3",
+      "f": 8
+    },
+    "<i class='kb kb-Multimedia-Play-Pause'></i>",
+    {
+      "x": 10.5
+    },
+    "<i class='kb kb-Arrows-Up'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5
+    },
+    "<i class='kb kb-Multimedia-Rewind-Start'></i>",
+    {
+      "x": 1,
+      "n": true
+    },
+    "<i class='kb kb-Multimedia-FastForward-End'></i>",
+    {
+      "x": 8.5,
+      "n": true
+    },
+    "<i class='kb kb-Arrows-Down'></i>",
+    {
+      "x": 1
+    },
+    "<i class='kb kb-Arrows-Right'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5.5
+    },
+    "",
+    {
+      "x": 6.5
+    },
+    "<i class='kb kb-Arrows-Left'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "f": 5,
+      "w": 1.5
+    },
+    "⇪",
+    {
+      "f": 8
+    },
+    "<i class='kb kb-Multimedia-Eject'></i>",
+    {
+      "x": 14.5,
+      "f": 5
+    },
+    "",
+    {
+      "w": 1.5
+    },
+    "<i class='kb kb-Multimedia-Mute-1'></i>"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": 6.5,
+      "c": "#9c9c9c",
+      "h": 1.5
+    },
+    "",
+    {
+      "x": 4.5,
+      "h": 1.5
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 3.5,
+      "c": "#ffffff",
+      "p": "DCS R4",
+      "f": 8
+    },
+    "",
+    {
+      "x": 10.5,
+      "f": 5
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5,
+      "f": 8
+    },
+    "",
+    {
+      "x": 1
+    },
+    "",
+    {
+      "x": 8.5
+    },
+    "",
+    {
+      "x": 1,
+      "f": 5
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5.5,
+      "f": 8
+    },
+    "",
+    {
+      "x": 6.5
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.875,
+      "f": 5,
+      "w": 1.5
+    },
+    "⇧",
+    {
+      "f": 8
+    },
+    "",
+    {
+      "x": 14.5,
+      "f": 5
+    },
+    "",
+    {
+      "w": 1.5
+    },
+    "⇧"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3.5,
+      "c": "#9c9c9c"
+    },
+    "",
+    {
+      "x": 10.5
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5
+    },
+    "",
+    {
+      "x": 1
+    },
+    "",
+    {
+      "x": 8.5
+    },
+    "",
+    {
+      "x": 1
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 0.5
+    },
+    "",
+    {
+      "c": "#ffffff"
+    },
+    "",
+    {
+      "x": 14.5
+    },
+    "",
+    {
+      "c": "#9c9c9c"
+    },
+    ""
+  ],
+  [
+    {
+      "y": 2.755000000000001,
+      "c": "#ffffff",
+      "p": "DCS R2",
+      "f": 8
+    },
+    "<i class='kb kb-Multimedia-Record'></i>",
+    {
+      "p": "DCS R4",
+      "a": 6,
+      "f": 5,
+      "w": 5,
+      "d": true
+    },
+    "Since we don't have any recording key, this is a `media select` so user can map it to anything else.",
+    {
+      "a": 7,
+      "w": 1.5
+    },
+    "⇧",
+    {
+      "a": 6,
+      "w": 4.25,
+      "d": true
+    },
+    "Normal Shift in case it needs to be send to the OS.",
+    {
+      "c": "#9c9c9c",
+      "a": 7
+    },
+    "",
+    {
+      "c": "#ffffff",
+      "a": 6,
+      "w": 6.75,
+      "d": true
+    },
+    "These keys are transparent to the layout, meaning that when you press them is the same as pressing this key on the previous layer."
+  ],
+  [
+    {
+      "r": 30,
+      "rx": 6.5,
+      "ry": 4.25,
+      "y": -1,
+      "x": 1,
+      "p": "DCS R1",
+      "a": 7
+    },
+    "",
+    ""
+  ],
+  [
+    {
+      "p": "DCS R2",
+      "h": 2
+    },
+    "",
+    {
+      "h": 2
+    },
+    "",
+    ""
+  ],
+  [
+    {
+      "x": 2
+    },
+    ""
+  ],
+  [
+    {
+      "r": -30,
+      "rx": 13,
+      "y": -1,
+      "x": -3,
+      "p": "DCS R1"
+    },
+    "",
+    ""
+  ],
+  [
+    {
+      "x": -3,
+      "p": "DCS R2"
+    },
+    "",
+    {
+      "h": 2
+    },
+    "",
+    {
+      "h": 2
+    },
+    ""
+  ],
+  [
+    {
+      "x": -3
+    },
+    ""
+  ]
+]
